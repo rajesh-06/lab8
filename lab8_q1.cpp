@@ -17,7 +17,7 @@ return arr;
 //main function
 int main(){
 	
-int arr[10] = {5,32,13,25,310};
+int arr[11] = {0,1,2,3,4,5,6,7,8,9,10};
 	//printing the value of sum
 	cout<<"The answer of 0";
 	//taking the values from the arrays
